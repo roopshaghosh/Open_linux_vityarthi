@@ -1,0 +1,23 @@
+OPEN SOURCE MANIFESTO
+Generated on 28 March 2026 at 08:13 by shampa
+================================================================
+
+I am a student of open source — not just of its code, but of its
+values. Every day, I rely on git, a tool built by people I have
+never met, who chose to share their work with the world. They asked
+nothing in return except that I do the same.
+
+To me, freedom means peace. That is why open source matters: it
+is not merely a licensing model but a commitment to the idea that
+knowledge grows stronger when it is shared. Every fork, every pull
+request, every issue filed is an act of trust between strangers.
+
+One day, I intend to build project and release it freely under an
+open license. I will do this because I understand what it means to
+stand on the shoulders of those who came before me. The developers
+who built git did not hoard their work. Neither will I.
+
+This is my commitment to the open-source way.
+
+                                    — shampa, 28 March 2026
+================================================================
