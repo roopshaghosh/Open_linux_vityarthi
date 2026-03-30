@@ -1,29 +1,28 @@
 OPEN SOURCE MANIFESTO
-Generated on 30 March 2026 at 08:14 by roopsha
+Generated on 30 March 2026 at 08:15 by Roopsha
 ================================================================
 
-I am a student of open source — not only of its code, but of its
-philosophy. Every day, I rely on tools like Git, created by people
-I may never meet, yet who chose to share their work openly with the
-world. They asked for nothing in return except that others continue
-the cycle of learning and sharing.
+For me, open source is not just about software — it is about people.
+It is about strangers helping each other grow without expecting
+anything in return.
 
-To me, freedom in technology means accessibility, collaboration,
-and trust. Open source is not just about free software; it is about
-building knowledge together. Every fork, every pull request, and
-every issue raised represents cooperation between individuals who
-believe in collective growth.
+As a student, I use tools like Git almost every day. Behind these
+tools are developers who decided to share their work openly, making
+it easier for learners like me to understand, practice, and build.
+This idea of sharing knowledge freely is what inspires me the most.
 
-As a learner, I am still at the beginning of my journey. I make
-mistakes, I explore, and I improve step by step. But even now, I
-recognize the responsibility that comes with using open resources.
+Open source creates a space where learning never stops. Even small
+contributions, like fixing a bug or improving documentation, can
+make a difference. It shows that anyone can be a part of something
+bigger, no matter their level of experience.
 
-One day, I intend to build a project of my own and release it under
-an open-source license. I will do this not only to share my work,
-but to contribute back to the community that has helped me grow.
+Right now, I am still learning and exploring. I may not contribute
+much yet, but I am slowly building the confidence to do so. In the
+future, I want to create my own projects and make them open so that
+others can learn from them, just like I am learning today.
 
-This is my commitment to the open-source way.
+This is not just a goal, but a responsibility I want to carry
+forward.
 
-                                    — roopsha, 30 March 2026
+                                    — Roopsha, 30 March 2026
 ================================================================
-
