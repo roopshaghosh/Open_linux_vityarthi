@@ -51,7 +51,6 @@ OS_Code/
 │   ├── script3.sh
 │   ├── script4.sh
 │   ├── script5.sh
-└── OSS_Audit_Git_Report_final.docx
 ```
 
 ---
@@ -116,7 +115,16 @@ Below are sample outputs from the scripts:
 - Log Analyzer Summary
 - Generated Manifesto
 
-(Screenshots can be added here for better visual understanding)
+<img width="1051" height="770" alt="image" src="https://github.com/user-attachments/assets/f9571ddd-cd9b-44d1-bccc-f1f6a2c24bcc" />
+<img width="1022" height="902" alt="image" src="https://github.com/user-attachments/assets/db859efe-aa7e-436c-80c4-2aac7f59c945" />
+<img width="875" height="898" alt="image" src="https://github.com/user-attachments/assets/bc7b4fac-de02-446c-ad41-ea27dfc9efd9" />
+<img width="643" height="213" alt="image" src="https://github.com/user-attachments/assets/c471c877-15c7-4844-8dfa-c5e653c1c61c" />
+<img width="783" height="443" alt="image" src="https://github.com/user-attachments/assets/51051d08-7d51-408b-b292-e9df2ab3c79d" />
+
+
+
+
+
 
 
 ## How to Run the Scripts
